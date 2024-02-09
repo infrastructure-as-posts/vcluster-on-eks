@@ -5,4 +5,4 @@ You can read the full article that describes this setup and why virtual clusters
 
 
 [https://www.infrastructureposts.com/p/virtual-kubernetes-clusters-on-aws
-](https://www.infrastructureposts.com/p/virtual-kubernetes-clusters-on-aws)https://www.infrastructureposts.com/p/virtual-kubernetes-clusters-on-aws
+](https://www.infrastructureposts.com/p/virtual-kubernetes-clusters-on-aws)
